@@ -1,0 +1,24 @@
+{
+  "name": "ejercicioVacas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"browser-sync start --server www --files www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barallobre/ejercicioVacas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barallobre/ejercicioVacas/issues"
+  },
+  "homepage": "https://github.com/Barallobre/ejercicioVacas#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.12"
+  }
+}
